@@ -1,15 +1,14 @@
+<base target="_blank">
+
 # I Failed My first AZ-400 Exam and Immediately Scored a FREE Retake!
 
 ![Canva Free Image](https://raw.githubusercontent.com/Bayurzx/publish-az400/main/az400_publish.jpg)
 
-## Introduction
-
-Are you considering taking the [AZ-400 exam](https://learn.microsoft.com/en-us/certifications/exams/az-400/), "Designing and Implementing Microsoft DevOps Solutions"? If so, you're in for a rewarding journey. 
-In this article, we'll dive into what you can expect from this certification, how to secure a free voucher, and, most importantly, how to obtain a free retake voucher in case the unexpected happens. 
-
-<code>
-
+Table of Contents
+-----------------
+<!-- <code> -->
 - [I Failed My first AZ-400 Exam and Immediately Scored a FREE Retake!](#i-failed-my-first-az-400-exam-and-immediately-scored-a-free-retake)
+  - [Table of Contents](#table-of-contents)
   - [Introduction](#introduction)
   - [Understanding the AZ-400 Exam](#understanding-the-az-400-exam)
     - [1. Configure Processes and Communications (10-15%)](#1-configure-processes-and-communications-10-15)
@@ -24,7 +23,12 @@ In this article, we'll dive into what you can expect from this certification, ho
   - [The Retake Opportunity](#the-retake-opportunity)
   - [Conclusion](#conclusion)
 
-</code>
+<!-- </code> -->
+
+## Introduction
+
+Are you considering taking the [AZ-400 exam](https://learn.microsoft.com/en-us/certifications/exams/az-400/), "Designing and Implementing Microsoft DevOps Solutions"? If so, you're in for a rewarding journey. 
+In this article, we'll dive into what you can expect from this certification, how to secure a free voucher, and, most importantly, how to obtain a free retake voucher in case the unexpected happens. 
 
 ## Understanding the AZ-400 Exam
 

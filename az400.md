@@ -1,3 +1,5 @@
+<base target="_blank">
+
 # I Failed My first AZ-400 Exam and Immediately Scored a FREE Retake!
 
 ![Canva Free Image](https://raw.githubusercontent.com/Bayurzx/publish-az400/main/az400_publish.jpg)
